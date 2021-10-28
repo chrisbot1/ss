@@ -1,12 +1,12 @@
 {
-    "token": "AddYourBotTokenHere",
+    "token": "ODQzNTI3MjA4OTQ1MTg4ODc0.YKFJ7g.tkUCLi9LP-7VjQUwEPI7X13LY7A",
     "guild": "GUILDID",
     "urls": {
         "RobloxGameInfos": "https://games.roblox.com/v1/games?universeIds=UNIVERSEID",
-        "RobloxGroupInfos": "https://groups.roblox.com/v1/groups/GROUPID"
+        "RobloxGroupInfos": "https://groups.roblox.com/v1/groups/12688490"
     },
     "voicechannels": {
         "RobloxActivePlaying": "VoiceChannelID",
-        "RobloxGroupMemberCount": "VoiceChannelID"
+        "RobloxGroupMemberCount": "903319060094283920"
     }
 }
